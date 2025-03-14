@@ -1,4 +1,4 @@
-# CENG209-game
+# CENG209-cmd based game
 # Dede Korkut Adventures
 
 Welcome to **Dede Korkut Adventures**, a text-based adventure game where you explore various rooms, battle enemies, manage your inventory, and save your game progress. This game offers a rich interactive experience with multiple rooms, items, and enemies to interact with.
